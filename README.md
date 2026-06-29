@@ -61,17 +61,7 @@
 
 ---
 
-<div align="center">
-
-<p style="font-size:24px; font-weight:bold; text-align:center;">🌿 GitHub Contribution Activity</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zahra-Web-Flow/Zahra-Web-Flow/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Zahra-Web-Flow/Zahra-Web-Flow/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-</div>
+<img src="https://raw.githubusercontent.com/Zahra-Web-Flow/Zahra-Web-Flow/output/pacman.svg" />
 
 ---
 
