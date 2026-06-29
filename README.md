@@ -63,10 +63,14 @@
 
 <div align="center">
 
-<p style="font-size:24px; font-weight:bold; text-align:center;">🌿 GitHub Activity</p>
+<p style="font-size:24px; font-weight:bold; text-align:center;">🌿 GitHub Contribution Activity</p>
 
-<img src="https://github-contribution-grid-snake.vercel.app/api/Zahra-Web-Flow/github-contribution-grid-snake.svg" alt="animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zahra-Web-Flow/Zahra-Web-Flow/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/Zahra-Web-Flow/Zahra-Web-Flow/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
+</div>
 </div>
 
 ---
