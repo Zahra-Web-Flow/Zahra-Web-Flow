@@ -1,0 +1,26 @@
+name: Pacman Contribution
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Zahra-Web-Flow
+          outputs: dist/pacman.svg
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
