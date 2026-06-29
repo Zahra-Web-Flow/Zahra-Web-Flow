@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<p style="font-size:24px; font-weight:bold;">🛠️ Tech Stack</p>
+<p style="font-size:24px; font-weight:bold; text-align:center;">🛠️ Tech Stack</p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,git,github,vscode,figma" />
 
@@ -27,11 +27,11 @@
 
 <div align="center">
 
-<p style="font-size:24px; font-weight:bold;">🎀 About Me</p>
+<p style="font-size:24px; font-weight:bold; text-align:center;">🎀 About Me</p>
 
-👩‍💻 I’m currently focused on mastering React and Modern CSS.  
-🎨 Passionate about clean code, beautiful UI/UX, and creative designs.  
-📚 Always learning and exploring new technologies in the web world.
+<p style="text-align:center;">👩‍💻 I’m currently focused on mastering React and Modern CSS.<br>
+🎨 Passionate about clean code, beautiful UI/UX, and creative designs.<br>
+📚 Always learning and exploring new technologies in the web world.</p>
 
 </div>
 
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<p style="font-size:24px; font-weight:bold;">💌 Professional Connect</p>
+<p style="font-size:24px; font-weight:bold; text-align:center;">💌 Professional Connect</p>
 
 <a href="mailto:Zahrakhanezad12@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A237E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/zahrakh-dev"><img src="https://img.shields.io/badge/LinkedIn-1A237E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<p style="font-size:24px; font-weight:bold;">📱 Socials</p>
+<p style="font-size:24px; font-weight:bold; text-align:center;">📱 Socials</p>
 
 <a href="https://t.me/Zahra_khanezad"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://wa.me/989921767964"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -63,9 +63,9 @@
 
 <div align="center">
 
-<p style="font-size:24px; font-weight:bold;">🌿 GitHub Contribution Grass</p>
+<p style="font-size:24px; font-weight:bold; text-align:center;">🌿 GitHub Activity</p>
 
-<img src="https://ghchart.rshah.org/Zahra-Web-Flow?color=00ff88" />
+<img src="https://github-contribution-grid-snake.vercel.app/api/Zahra-Web-Flow/github-contribution-grid-snake.svg" alt="animation" />
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<p style="font-size:24px; font-weight:bold;">📊 GitHub Stats</p>
+<p style="font-size:24px; font-weight:bold; text-align:center;">📊 GitHub Stats</p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zahra-Web-Flow&theme=radical" width="98%" />
 
