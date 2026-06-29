@@ -61,9 +61,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Zahra-Web-Flow/Zahra-Web-Flow/output/pacman.svg" />
-
----
 
 <div align="center">
 
