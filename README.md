@@ -1,11 +1,10 @@
 <div align="center">
 
-# 🌸 Hello, I'm Zahra Khanzad! 🌸
-### 🚀 Frontend Developer | UI/UX Enthusiast
-<br>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=220&section=header&text=Zahra%20Khanezad&fontSize=42&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20UI%2FUX&descSize=18&descAlignY=70&animation=twinkling" />
 
 <img src="https://komarev.com/ghpvc/?username=Zahra-Web-Flow-New&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</div>
+
 
 <br><br>
 
@@ -51,6 +50,22 @@
 <a href="https://instagram.com/zahrakh__dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br><br>
+
+<br>
+
+<div align="center">
+
+## 🌿 GitHub Contribution Grass
+
+<img 
+  src="https://ghchart.rshah.org/Zahra-Web-Flow?color=00ff88"
+  style="border-radius: 12px; filter: drop-shadow(0px 0px 6px #00ff88);" />
+
+<br>
+
+</div>
+
+<br>
 
 
 ## 📊 GitHub Analytics & Stats
